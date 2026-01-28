@@ -1,0 +1,5 @@
+print(34 + 56)
+print(15 * 4)
+print("i am",18,"years old!")
+print(32*12)
+print(15 + 14)
